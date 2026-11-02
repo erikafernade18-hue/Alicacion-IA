@@ -1,0 +1,6 @@
+{
+  "name": "FINANCIA IA - Evaluación Financiera de Proyectos",
+  "description": "Aplicación web profesional para evaluación financiera de proyectos de inversión empresarial: cálculo de VPN, TIR, PRI simple y descontado, B/C, punto de equilibrio y diagnóstico financiero inteligente con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
